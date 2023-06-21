@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-zouari&show_icons=true&locale=en&layout=compact&&theme=algolia" alt="aymen-zouari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymen-zouari&show_icons=true&locale=en" alt="aymen-zouari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymen-zouari&show_icons=true&locale=en&&theme=algolia" alt="aymen-zouari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymen-zouari&" alt="aymen-zouari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymen-zouari&&theme=algolia" alt="aymen-zouari" /></p>
 
