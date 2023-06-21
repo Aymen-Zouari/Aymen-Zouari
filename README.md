@@ -20,7 +20,10 @@ I am a hardworking and ambitious individual with a great passion. I am currently
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aymen.zoueri/" height="30" width="40" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Languages and Tools:</h3>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:
+</b>
+<br>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -50,6 +53,7 @@ I am a hardworking and ambitious individual with a great passion. I am currently
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-zouari&show_icons=true&locale=en&layout=compact&&theme=algolia" alt="aymen-zouari" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymen-zouari&show_icons=true&locale=en&&theme=algolia" alt="aymen-zouari" /></p>
