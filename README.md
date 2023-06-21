@@ -28,6 +28,9 @@
 <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-zouari&show_icons=true&locale=en&layout=compact&&theme=algolia" alt="aymen-zouari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymen-zouari&show_icons=true&locale=en&&theme=algolia" alt="aymen-zouari" /></p>
