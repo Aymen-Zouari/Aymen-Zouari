@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zouari Aymen</h1>
 <h3 align="center">I am a computer engineering student | Esprit</h3>
-<br>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <img title="My Avatar" align="left" src="assets/images/zaw.png"  width="500px" alt="hi" >
-<br>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen-zouari&label=Profile%20views&color=0e75b6&style=flat" alt="aymen-zouari" /> </p>
 <br>
 <br>
