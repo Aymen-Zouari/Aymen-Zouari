@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zouari Aymen</h1>
 <h3 align="center">I am a computer engineering student | Esprit</h3>
-
+<br>
+<br>
 <img title="My Avatar" align="left" src="assets/images/zaw.png"  width="500px" alt="hi" >
 <br>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen-zouari&label=Profile%20views&color=0e75b6&style=flat" alt="aymen-zouari" /> </p>
-
+<br>
+<br>
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zouari-aymen-915835213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zouari-aymen-915835213/" height="30" width="40" /></a>
@@ -28,6 +30,7 @@
 <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> 
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-zouari&show_icons=true&locale=en&layout=compact&&theme=algolia" alt="aymen-zouari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymen-zouari&show_icons=true&locale=en&&theme=algolia" alt="aymen-zouari" /></p>
