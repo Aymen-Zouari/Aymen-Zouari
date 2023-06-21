@@ -25,7 +25,7 @@
 <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" style="background-color: #050F2C" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-zouari&show_icons=true&locale=en&layout=compact" alt="aymen-zouari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-zouari&show_icons=true&locale=en&layout=compact&&theme=algolia" alt="aymen-zouari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymen-zouari&show_icons=true&locale=en" alt="aymen-zouari" /></p>
 
