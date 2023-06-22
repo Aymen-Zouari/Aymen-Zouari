@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zouari Aymen</h1>
 <h3 align="center">I am a computer engineering student | Esprit</h3>
-<img title="Cover" align="center" src="assets/images/backg.png"  width="2000px" height="300px" alt="hi" >
+<img title="Cover" align="center" src="assets/images/backg.png"  width="2000px" height="400px" alt="hi" >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <img title="My Avatar" align="left" src="assets/images/zaw.png"  width="500px" alt="hi" >
 <br>
