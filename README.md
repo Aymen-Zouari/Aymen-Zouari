@@ -10,7 +10,7 @@
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-I am a hardworking and ambitious individual with a great passion. I am currently in my second year of studying computer engineering at Esprit.
+I am a hardworking and ambitious individual with a great passion. I am currently in my third year of studying computer engineering at Esprit.
 <img height ="20" src= "assets/friends.gif" />
 
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
