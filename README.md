@@ -60,5 +60,3 @@ I am a hardworking and ambitious individual with a great passion. I am currently
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymen-zouari&show_icons=true&locale=en&&theme=algolia" alt="aymen-zouari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymen-zouari&&theme=algolia" alt="aymen-zouari" /></p>
-
-<img  align="center" src="assets/images/video1.mp4"  width="500px" alt="hi" >
